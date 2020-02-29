@@ -1,0 +1,40 @@
+.icon_grid{
+    border: 1px solid #97455F;
+    overflow: auto;
+    padding: 5px;
+    width: 100%;
+}
+.icon-1{
+    float: left;
+    margin-left: 20px;
+    color: #D2D2D2;
+    
+}
+.icon-1:hover {
+    color:#F37F28;
+     }
+.row{
+         margin-left: 0px !important; 
+}
+.hrefs{
+    float: right;
+}
+.fst{
+    margin-right: 15px;
+    padding-right: 10px;
+    border-right:2px solid #97455F ;
+    display: inline ;
+
+}
+.fst a{
+    color: #97455F;
+}
+.lst a{
+    color: #97455F;
+
+}
+.lst{
+    
+    display: inline ;
+
+}

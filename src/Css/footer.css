@@ -1,0 +1,48 @@
+.mains{
+
+border: 5px solid gray;
+margin-top:15px;
+height: 95px;
+width: 95px;
+padding:5px 30px 10px 30px;
+background-color:black;
+color: white;
+
+}
+
+.cols{
+  
+    margin-top:10px;
+    font-family: Georgia;
+    font-size: 14px;
+
+
+
+}
+
+.data{
+    margin-top: 10px;
+    font-family: Georgia;
+ color: 	#97455E;
+font-size: 16px;
+}
+.datas{
+    margin-top: -20px;
+    font-family: Georgia;
+    font-size: 13px;
+    
+}
+.total{
+    background-color:	#EBEBEB;
+    border-top: 5px solid #D2D2D2 ;
+}
+
+.botn{
+
+    background-color: 	#97455E!important;
+    color: white;
+    border: 0px!important;
+}
+.forms{
+    float: none;
+}

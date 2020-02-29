@@ -1,0 +1,21 @@
+.rows {
+    
+    margin-top: 100px !important;
+}
+
+.bord-1{
+    border: 5px solid #dee2e6 !important;
+    background-color:#dee2e6 ;
+    /* margin-left: 125px; */
+}
+.bord-2{
+    border: 5px solid #dee2e6 !important;
+    background-color:#dee2e6 ;
+    /* margin-right: 125px; */
+}
+.text{ 
+    font-family:Georgia;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: -10px;
+}

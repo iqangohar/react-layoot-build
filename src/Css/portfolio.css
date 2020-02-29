@@ -1,0 +1,25 @@
+.box{
+    border: 5px solid #373737 !important;
+    background-color:#373737;
+    color: white;
+    padding: 10px 25px 10px 25px;
+}
+.lable-1{
+    font-family:Georgia;
+    color: #9F697B;
+    font-size: 16px;
+    text-align: left !important;
+}
+.lable-2{
+    font-family:Georgia;
+    color: #dee2e6;
+    font-size: 13px;
+}
+.colm-1{
+    /* border: 2px solid #373737 !important; */
+    /* padding: 10px; */
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding-left: 120px !important;
+    padding-right: 120px !important;
+}
